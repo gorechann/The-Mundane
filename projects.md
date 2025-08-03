@@ -15,4 +15,5 @@ Something I have been working on for some time now though there are times I some
 - continue to use virtuoso to create more OST for the overall setting.
 - lining up audio sound effects with text on the screen, pausing / ending the audio when skipped.
 - customized save menu screen
+- customized chat box border
 - bug fixes with animated text pop up errors, reinstall everything to solve.
