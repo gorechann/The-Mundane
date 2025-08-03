@@ -2,7 +2,7 @@
 
 ![4dd8a6ade93d781201441e3f6d546a2d](https://github.com/user-attachments/assets/88f4c602-3275-4b5e-bd8d-6a38ccbfcb0d)
 
-## A place for me to vomit my daily routines and habits.
+## A place for me to vomit my daily routines and habits live.
 
 - 8/3/25, 7:26am I haven't slept well, spent the morning organizing the internal aspects of my PC.
 - Took a shower, did my usual skin / self routine. ( ˘͈ ᵕ ˘͈♡) advanced snail 92, lion's mane pill, valerian root, rosemary mint oil for the scalp, vanilla bean lotion, a facial mask, perfume.
