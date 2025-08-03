@@ -1,6 +1,7 @@
 # My daily log entries.
 
-![4dd8a6ade93d781201441e3f6d546a2d](https://github.com/user-attachments/assets/88f4c602-3275-4b5e-bd8d-6a38ccbfcb0d)
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/67f5e974-b90c-421c-a61b-33d91b734204" />
+
 
 ## A place for me to vomit my daily routines and habits live.
 
