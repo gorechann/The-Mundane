@@ -1,4 +1,4 @@
-# The Wired Stream Of Thoughts.
+# The Wired Stream Of Thoughts - my archive.
 ### Table of contents
 - [the daily logs.](./dailylogs.md)
 - [current projects.](./projects.md)
