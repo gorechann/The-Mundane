@@ -1,3 +1,6 @@
-# The mental vomit of my existence.
+# My digitized Mental Vomit Drawer.
 ### Table of contents
-- [the daily archives](./dailyarchives.md)
+- [the daily logs.](./logs.md)
+- [current projects.](./projects.md)
+- [beloved pieces of media.](./belovedmedia.md)
+- [self topics of interest.](.selfinterest.md)
