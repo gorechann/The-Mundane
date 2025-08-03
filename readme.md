@@ -1,4 +1,4 @@
-# My digitized Mental Vomit Drawer.
+# My digitized Mental Thoughts.
 ### Table of contents
 - [the daily logs.](./dailylogs.md)
 - [current projects.](./projects.md)
