@@ -4,3 +4,4 @@
 - [beloved pieces of media.](./belovedmedia.md)
 - [self topics of interest.](.selfinterest.md)
 - [shared code / insight / ideas.](.sharecode.md)
+- [OC bladed self harm.](.selfharm.md)
