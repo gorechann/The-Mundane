@@ -3,3 +3,4 @@
 - [current projects.](./projects.md)
 - [beloved pieces of media.](./belovedmedia.md)
 - [self topics of interest.](.selfinterest.md)
+- [shared code / insight / ideas.](.sharecode.md)
